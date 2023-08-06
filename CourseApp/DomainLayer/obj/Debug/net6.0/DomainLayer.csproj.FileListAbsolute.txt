@@ -1,0 +1,5 @@
+C:\Users\mehem\source\repos\CourseApp\DomainLayer\obj\Debug\net6.0\DomainLayer.csproj.AssemblyReference.cache
+C:\Users\mehem\source\repos\CourseApp\DomainLayer\obj\Debug\net6.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehem\source\repos\CourseApp\DomainLayer\obj\Debug\net6.0\DomainLayer.AssemblyInfoInputs.cache
+C:\Users\mehem\source\repos\CourseApp\DomainLayer\obj\Debug\net6.0\DomainLayer.AssemblyInfo.cs
+C:\Users\mehem\source\repos\CourseApp\DomainLayer\obj\Debug\net6.0\DomainLayer.csproj.CoreCompileInputs.cache
